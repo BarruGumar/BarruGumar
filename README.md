@@ -5,4 +5,4 @@
 Estou sempre fazendo projetos, mas até agora o meu maior projeto é o Bubbles <br>
 🫧 https://bubbles.up.railway.app/bubbles
 
-**Minhas skills:**
+<!--<h2>Minhas skills:</h2>-->
