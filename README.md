@@ -7,5 +7,5 @@ Estou sempre fazendo projetos, mas até agora o meu maior projeto é o Bubbles <
 
 <!--<h2>Minhas skills:</h2>-->
 
-<img width="93" height="72" alt="image" src="https://github.com/user-attachments/assets/41d46c2a-7b2c-400e-85f5-92b347b565c4" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7c1f84a6-fdb1-4637-8c4f-d75949467244" />
+<img width="95" height="72" alt="image" src="https://github.com/user-attachments/assets/41d46c2a-7b2c-400e-85f5-92b347b565c4" />
+<img width="93" height="93" alt="image" src="https://github.com/user-attachments/assets/7c1f84a6-fdb1-4637-8c4f-d75949467244" />
