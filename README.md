@@ -11,5 +11,5 @@ Estou sempre fazendo projetos, mas até agora o meu maior projeto é o Bubbles <
 <img width="40"  alt="image" src="https://github.com/user-attachments/assets/669341bf-624a-47c3-b9c1-a40f4c1e1a3d" />
 <img width="55" alt="image" src="https://github.com/user-attachments/assets/7c1f84a6-fdb1-4637-8c4f-d75949467244" />
 <img width="40" alt="image" src="https://github.com/user-attachments/assets/76c29c1e-e4f8-41eb-a8d6-cde10eced820" />
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/437c672c-14ee-4aeb-940a-9461482286c9" />
+<img width="40" alt="image" src="https://github.com/user-attachments/assets/437c672c-14ee-4aeb-940a-9461482286c9" />
 
