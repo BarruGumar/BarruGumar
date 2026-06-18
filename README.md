@@ -2,7 +2,7 @@
 
 **Sou o Pedro tenho 17 e estou cursando Técnico de informática - sistemas**
 
-Estou sempre fazendo projetos, mas até agora o meu maior projeto é o Bubbles <br>
+Estou sempre fazendo alguma coisa, mas até agora o meu maior projeto é o Bubbles <br>
 🫧 https://bubbles.up.railway.app/bubbles
 
 <h2>Minhas skills:</h2>
